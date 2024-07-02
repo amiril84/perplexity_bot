@@ -1,1 +1,5 @@
-"python bot.py" 
+{
+  "scripts": {
+    "start": "python bot.py"
+  }
+}
