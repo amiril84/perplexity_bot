@@ -1,5 +1,1 @@
-{
-  "scripts": {
-    "start": "python bot.py"
-  }
-}
+{"start": "python bot.py"}
